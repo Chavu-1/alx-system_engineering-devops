@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 bluecode-wiggens bluecode-wiggens 4096 Aug 23 19:10 .
+drwxrwxr-x 6 bluecode-wiggens bluecode-wiggens 4096 Aug 23 09:03 ..
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   30 Aug 23 13:30 0-hello_world
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   20 Aug 23 13:08 1-confused_smiley
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   29 Aug 23 13:30 2-hellofile
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   40 Aug 23 13:55 3-twofiles
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   29 Aug 23 14:07 4-lastlines
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   29 Aug 23 14:12 5-firstlines
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   50 Aug 23 14:28 6-third_line
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   78 Aug 23 18:48 7-file
+-rwxrwxr-x 1 bluecode-wiggens bluecode-wiggens   37 Aug 23 19:10 8-cwd_state
+-rw-rw-r-- 1 bluecode-wiggens bluecode-wiggens    0 Aug 23 19:10 ls_cwd_content
+-rw-rw-r-- 1 bluecode-wiggens bluecode-wiggens   41 Aug 23 09:06 README.md
